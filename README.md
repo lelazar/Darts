@@ -15,3 +15,5 @@ Also would like to print out a summary screen with average shots and best shot/g
 
 Ps: using int32 and FText are the standards of Unreal Engine. In the near future I would like to learn and work with
 Unreal Engine 4 to make video games.
+
+P.Ps: Dani and Endre are my friends' names :)
