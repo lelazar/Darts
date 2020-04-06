@@ -12,3 +12,6 @@ I would like to do some inputs in it like how many players, what are the name(s)
 they would like to play a 301 or a 501 game.
 
 Also would like to print out a summary screen with average shots and best shot/game.
+
+Ps: using int32 and FText are the standards of Unreal Engine. In the near future I would like to learn and work with
+Unreal Engine 4 to make video games.
